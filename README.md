@@ -34,31 +34,72 @@ I combine strong engineering fundamentals with analytical thinking to build inte
 
 ## 🛠 Tech Stack
 
-### Data & AI
-<p>
+---
+
+### 🧠 Data Science & Machine Learning
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=pandas" />
 <img src="https://skillicons.dev/icons?i=numpy" />
 <img src="https://skillicons.dev/icons?i=scikitlearn" />
-<img src="https://skillicons.dev/icons?i=fastapi" />
-<img src="https://skillicons.dev/icons?i=streamlit" />
 </p>
 
-### Backend & Full Stack
-<p>
+- Regression & Classification Models  
+- Feature Engineering & Data Preprocessing  
+- Model Evaluation (R², MAE, RMSE, F1-Score)  
+- Hyperparameter Optimization (GridSearchCV, RandomizedSearchCV)  
+- Exploratory Data Analysis (EDA)
+
+---
+
+### 🤖 AI & Generative AI
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Large Language Models (LLMs)  
+- Retrieval-Augmented Generation (RAG)  
+- Vector Embeddings & Semantic Search  
+- Prompt Engineering  
+- Hugging Face Integration  
+
+---
+
+### ⚙ Backend & Full-Stack Engineering
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=express" />
 <img src="https://skillicons.dev/icons?i=react" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+- REST API Development  
+- JWT Authentication  
+- Database Schema Design  
+- API Integration  
+- Production Deployment  
 
 ---
+
+### 📊 Data Tools & Visualization
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git" />
+</p>
+
+- SQL Query Optimization  
+- Power BI Dashboards  
+- Streamlit App Deployment  
+- Version Control & Collaboration  
+
+---
+
 
 ## 📌 Featured Projects
 
@@ -73,11 +114,14 @@ Developed a scalable, production-ready e-commerce system with REST APIs, authent
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mrgaurav4283&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgaurav4283&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrgaurav4283&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgaurav4283&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
