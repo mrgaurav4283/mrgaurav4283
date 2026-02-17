@@ -34,29 +34,38 @@ I combine strong engineering fundamentals with analytical thinking to build inte
 
 ## 🛠 Tech Stack
 
-### Data & AI
+### Data Science & Machine Learning
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=pandas" />
-<img src="https://skillicons.dev/icons?i=numpy" />
 <img src="https://skillicons.dev/icons?i=scikitlearn" />
 <img src="https://skillicons.dev/icons?i=fastapi" />
-<img src="https://skillicons.dev/icons?i=streamlit" />
 </p>
+Python • SQL • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+Regression • Classification • EDA • Model Evaluation • GridSearchCV
 
 ### Backend & Full Stack
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=express" />
 <img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=nodejs" />  
 </p>
+MongoDB • Express.js • React • Node.js • FastAPI  
+REST APIs • JWT Authentication • Database Schema Design 
 
 ### Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+Power BI • Streamlit • Jupyter Notebook • Git  
+
+### AI & Generative AI
+Large Language Models (LLMs)  
+Retrieval-Augmented Generation (RAG)  
+Vector Embeddings  
+Prompt Engineering  
+Hugging Face Integration  
 
 ---
 
