@@ -90,7 +90,7 @@ I combine strong engineering fundamentals with analytical thinking to build inte
 
 ### 📊 Data Tools & Visualization
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=jupyternotebook" />
 <img src="https://skillicons.dev/icons?i=git" />
