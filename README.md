@@ -38,10 +38,12 @@ I combine strong engineering fundamentals with analytical thinking to build inte
 
 ### 🧠 Data Science & Machine Learning
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=pandas" />
 <img src="https://skillicons.dev/icons?i=numpy" />
+<img src="https://skillicons.dev/icons?i=matplotlib" />
+<img src="https://skillicons.dev/icons?i=seaborn" />
 <img src="https://skillicons.dev/icons?i=scikitlearn" />
 </p>
 
@@ -55,7 +57,7 @@ I combine strong engineering fundamentals with analytical thinking to build inte
 
 ### 🤖 AI & Generative AI
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=fastapi" />
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
@@ -70,7 +72,7 @@ I combine strong engineering fundamentals with analytical thinking to build inte
 
 ### ⚙ Backend & Full-Stack Engineering
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=express" />
 <img src="https://skillicons.dev/icons?i=react" />
@@ -90,6 +92,7 @@ I combine strong engineering fundamentals with analytical thinking to build inte
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=jupyternotebook" />
 <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
