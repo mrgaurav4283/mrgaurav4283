@@ -6,28 +6,29 @@ Data & AI Enthusiast • Machine Learning Practitioner • Software Engineer
 
 ---
 
-## 👨‍💻 About Me
+## 🛡️ About Me
 
-I am a Data and AI-focused software engineer with hands-on experience building end-to-end machine learning systems and scalable full-stack applications.
+Currently working as a Software Development Engineer focused on enterprise Identity & Access Management (IAM) and cybersecurity solutions.
 
-Currently:
-- Developing ML models for real-world business problems
-- Building Retrieval-Augmented Generation (RAG) systems using open-source LLMs
-- Engineering scalable web platforms using MERN stack and FastAPI
+Working on Identity Provider (IdP) systems using Java Spring Boot and Microservices architecture, with hands-on experience in backend development, REST APIs, authentication systems, SSO, SAML, OAuth 2.0, and secure enterprise integrations.
 
-I combine strong engineering fundamentals with analytical thinking to build intelligent, production-ready systems.
+Previously worked on scalable MERN applications, AI/ML systems, and Retrieval-Augmented Generation (RAG) solutions for real-world business use cases.
+
+I enjoy building secure, scalable, and production-ready software systems across backend engineering, cybersecurity, full-stack development, and intelligent applications.
 
 ---
 
 ## 🧠 Core Expertise
 
-- Machine Learning & Model Evaluation  
-- Feature Engineering & Data Preprocessing  
-- Hyperparameter Optimization  
-- Generative AI & RAG Architectures  
-- Vector Embeddings & Semantic Search  
-- Model Deployment & API Integration  
-- Backend Development & Database Design  
+- Cybersecurity & Authentication Systems
+- Java Spring Boot Backend Development
+- Microservices Architecture
+- SSO, SAML & OAuth 2.0
+- REST API Development & Secure Integrations
+- Full-Stack MERN Development
+- Database Design & System Scalability
+- Machine Learning & Model Evaluation    
+- Generative AI & RAG Architectures
 - End-to-End Project Deployment  
 
 ---
@@ -50,8 +51,8 @@ Regression • Classification • EDA • Model Evaluation • GridSearchCV
 <img src="https://skillicons.dev/icons?i=react" />
 <img src="https://skillicons.dev/icons?i=nodejs" />  
 </p>
-MongoDB • Express.js • React • Node.js • FastAPI  
-REST APIs • JWT Authentication • Database Schema Design 
+Java • Spring Boot • Microservices • React • Node.js • Express.js • MongoDB
+REST APIs • JWT Authentication • OAuth 2.0 • SAML • Backend Architecture
 
 ### Tools
 <p>
@@ -69,7 +70,7 @@ Hugging Face Integration
 
 ---
 
-## 📌 Featured Projects
+## 🧩 Featured Projects
 
 ### 🔹 Customer Lifetime Value (CLV) Prediction
 Built an end-to-end ML pipeline using regression models, feature engineering, and hyperparameter tuning to support strategic business decisions.
@@ -79,6 +80,17 @@ Implemented document retrieval integrated with open-source LLMs for context-awar
 
 ### 🔹 Full-Stack MERN E-Commerce Platform
 Developed a scalable, production-ready e-commerce system with REST APIs, authentication workflows, and optimized database architecture.
+
+---
+
+## ⚙️ Current Focus
+
+* Enterprise IAM & Cybersecurity Solutions
+* Backend Engineering with Spring Boot
+* Scalable Microservices Architecture
+* Secure Authentication Systems
+* Distributed Systems & Cloud Technologies
+
 
 ---
 
