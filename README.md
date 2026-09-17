@@ -1,100 +1,142 @@
 <h1 align="center">Hi, I'm Gaurav Wankhade 👋</h1>
 
 <p align="center">
-Data & AI Enthusiast • Machine Learning Practitioner • Software Engineer
+Software Engineer • Java & Spring Boot Developer • Cybersecurity & IAM Enthusiast
 </p>
 
 ---
 
 ## 🛡️ About Me
 
-Currently working as a Software Development Engineer focused on enterprise Identity & Access Management (IAM) and cybersecurity solutions.
+Software Engineer focused on building secure, scalable, and maintainable software systems.
 
-Working on Identity Provider (IdP) systems using Java Spring Boot and Microservices architecture, with hands-on experience in backend development, REST APIs, authentication systems, SSO, SAML, OAuth 2.0, and secure enterprise integrations.
+My primary interests are **Java, Spring Boot, Microservices, REST APIs, React.js, and Backend Engineering**, with a growing focus on **Cybersecurity and Identity & Access Management (IAM)**.
 
-Previously worked on scalable MERN applications, AI/ML systems, and Retrieval-Augmented Generation (RAG) solutions for real-world business use cases.
+I have hands-on experience working with authentication and authorization concepts, SSO, SAML, OAuth 2.0, JWT, and secure enterprise integrations.
 
-I enjoy building secure, scalable, and production-ready software systems across backend engineering, cybersecurity, full-stack development, and intelligent applications.
+I also have experience in **AI/ML, Generative AI, and RAG-based applications**, along with full-stack development using React.js and Node.js.
+
+I enjoy understanding complex systems, solving technical problems, and building practical applications from development to deployment.
 
 ---
 
 ## 🧠 Core Expertise
 
-- Cybersecurity & Authentication Systems
-- Java Spring Boot Backend Development
+- Java & Spring Boot Backend Development
 - Microservices Architecture
-- SSO, SAML & OAuth 2.0
-- REST API Development & Secure Integrations
-- Full-Stack MERN Development
-- Database Design & System Scalability
-- Machine Learning & Model Evaluation    
-- Generative AI & RAG Architectures
-- End-to-End Project Deployment  
+- REST API Development
+- Cybersecurity & Identity & Access Management (IAM)
+- Authentication & Authorization
+- SSO, SAML, OAuth 2.0 & JWT
+- React.js Full-Stack Development
+- Database Design & Integration
+- AI/ML & Generative AI
+- RAG-Based Applications
+- API Integration & Testing
+- Git & Software Development Workflows
 
 ---
 
 ## 🛠 Tech Stack
 
-### Data Science & Machine Learning
+### ☕ Java & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+Java • Spring Boot • Spring MVC • Microservices • REST APIs  
+Authentication • Authorization • JWT • OAuth 2.0 • SAML  
+Backend Architecture • API Development • Database Integration
+
+### ⚛️ Frontend & Full Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,express" />
+</p>
+
+React.js • JavaScript • HTML5 • CSS3  
+Node.js • Express.js • REST APIs  
+Full-Stack Application Development
+
+### 🔐 Cybersecurity & IAM
+
+Authentication & Authorization  
+Identity & Access Management (IAM)  
+Single Sign-On (SSO)  
+SAML  
+OAuth 2.0  
+JWT  
+Role-Based Access Control (RBAC)  
+Secure API & Enterprise Integrations
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+MySQL • PostgreSQL • MongoDB  
+SQL • Database Design • Data Modeling
+
+### 🤖 AI & Machine Learning
+
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=scikitlearn" />
-<img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
-Python • SQL • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
-Regression • Classification • EDA • Model Evaluation • GridSearchCV
 
-### Backend & Full Stack
+Python • Pandas • NumPy • Scikit-learn  
+Machine Learning • Regression • Classification  
+EDA • Feature Engineering • Model Evaluation  
+Generative AI • LLMs • RAG • Vector Embeddings  
+Prompt Engineering • Hugging Face
+
+### 🛠️ Tools & Technologies
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />  
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,idea,vscode" />
 </p>
-Java • Spring Boot • Microservices • React • Node.js • Express.js • MongoDB
-REST APIs • JWT Authentication • OAuth 2.0 • SAML • Backend Architecture
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-Power BI • Streamlit • Jupyter Notebook • Git  
-
-### AI & Generative AI
-Large Language Models (LLMs)  
-Retrieval-Augmented Generation (RAG)  
-Vector Embeddings  
-Prompt Engineering  
-Hugging Face Integration  
+Git • GitHub • Docker • Linux • Postman  
+IntelliJ IDEA • VS Code • Jupyter Notebook • Streamlit
 
 ---
 
 ## 🧩 Featured Projects
 
 ### 🔹 Customer Lifetime Value (CLV) Prediction
-Built an end-to-end ML pipeline using regression models, feature engineering, and hyperparameter tuning to support strategic business decisions.
+
+Built an end-to-end machine learning solution using feature engineering, customer segmentation, regression models, and hyperparameter tuning to predict customer lifetime value.
 
 ### 🔹 RAG-Based Q&A Chatbot
-Implemented document retrieval integrated with open-source LLMs for context-aware and accurate response generation.
+
+Built a Retrieval-Augmented Generation application combining document retrieval, vector embeddings, and LLMs to generate context-aware responses.
 
 ### 🔹 Full-Stack MERN E-Commerce Platform
-Developed a scalable, production-ready e-commerce system with REST APIs, authentication workflows, and optimized database architecture.
+
+Developed a full-stack e-commerce application using React.js, Node.js, Express.js, and MongoDB with REST APIs, authentication, and database management.
+
+### 🔹 Sign Language to Conversational Speech
+
+Developed an AI-powered application for sign language recognition using computer vision and machine learning to convert recognized gestures into conversational speech.
 
 ---
 
 ## ⚙️ Current Focus
 
-* Enterprise IAM & Cybersecurity Solutions
-* Backend Engineering with Spring Boot
-* Scalable Microservices Architecture
-* Secure Authentication Systems
-* Distributed Systems & Cloud Technologies
-
+- Java & Spring Boot Backend Development
+- Microservices Architecture
+- React.js Full-Stack Development
+- Cybersecurity & IAM
+- Authentication & Authorization
+- Secure API Development
+- Distributed Systems
+- Cloud & Deployment
+- Generative AI & RAG Applications
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mrgaurav4283&theme=github-dark&hide_border=true)
 
