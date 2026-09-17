@@ -139,7 +139,7 @@ Developed an AI-powered application for sign language recognition using computer
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrgaurav4283&theme=github-dark&hide_border=true" />
+  <i>Explore my repositories and contributions on GitHub.</i>
 </p>
 
 ---
